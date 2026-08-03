@@ -1,0 +1,4 @@
+-# An if-statement is a line of code that checks if a boolean expression is either true or false.
+-# An if-statement is used for determining lines of code based off facts.
+-# An else-statement is used to determine what happens if the if-statement is false.
+-# An elif-statement is used to determine what happens if the if-statement is false and the elif-statement is true.
