@@ -1,0 +1,10 @@
+import pgzrun
+
+GRID_WIDTH = 10
+GRID_HEIGHT = 12
+GRID_SIZE = 50
+
+WIDTH = GRID_WIDTH * GRID_SIZE
+HEIGHT = GRID_HEIGHT * GRID_SIZE
+
+pgzrun.go()
